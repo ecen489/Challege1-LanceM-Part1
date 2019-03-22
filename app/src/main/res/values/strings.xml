@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CameraDemo</string>
+    <string name="openCam">Open and Capture</string>
+</resources>
